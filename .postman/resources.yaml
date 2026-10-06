@@ -6,8 +6,8 @@ cloudResources:
     ../postman/collections/Vehicle Service Collection: 58674442-198f5963-d2a6-4b15-ac9d-9b6e8c2fe69b
   environments:
     ../postman/environments/Mock Environment.environment.yaml: 58674417-7d3a87d3-7343-44c2-8add-b33b78703188
-    ../postman/environments/Local – Agent Mode.environment.yaml: 58674417-1deb53bc-03c1-43f0-8871-461888a57be1
     ../postman/environments/Local.environment.yaml: 58674417-fb39b0d6-4874-45a8-8108-d558533d0274
+    ../postman/environments/Local - Agent Mode.environment.yaml: 58674417-1deb53bc-03c1-43f0-8871-461888a57be1
   globals:
     ../postman/globals/workspace.globals.yaml: 3b4aa6a8-a9b7-4e8b-8f85-d9a8d5bd1f76
   specs:
